@@ -1,0 +1,20 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+.contaner{
+    width:80%;
+    margin:auto;
+    height:90vh;
+    background-color:azure;
+}
+.child h3{
+    background-color:green;
+    color:white;
+    display:block;
+    height:20px;
+    padding:10px;
+    text-align:center;
+    margin:auto;
+
+}
